@@ -37,7 +37,7 @@ After you have **cloned, created the react app and repleced the files** follow t
 4) You will then be prompted to give **your Application information**. Give your application an appropriate name and description, and click **Create application** .</br>
 5) With this, you have created an application and can now access your **Access Key and Secret Key** under the Keys section. Copy these keys to a secure location.</br>
 6) Create a **.env file** in the same directory in which src folder is present.</br>
-7) Add your **api key as : API_APP_APP_KEY : <api_key>** </br>
+7) Add your **api key as : REACT_APP_API_KEY : <api_key>** </br>
 
 ## Your application will be ready !! ✔️
 </br>
